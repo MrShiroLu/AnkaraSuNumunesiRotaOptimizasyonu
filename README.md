@@ -1,8 +1,7 @@
 **Adınız:** Burak  
 **Soyadınız:**  ARTUN
 **Okul Numaranız:**  2312729005
-**GitHub Repo Bağlantısı:** https://github.com/kullanici_adi/AnkaraGolleriNumuneToplamaEnKisaRota
-
+**GitHub Repo Bağlantısı:** https://github.com/MrShiroLu/AnkaraSuNumunesiRotaOptimizasyonu
 
 # Karınca Kolonisi Algoritması ile Ankara Gölet Rota Optimizasyonu
 
@@ -28,7 +27,7 @@ Bu proje, doğadaki karıncaların feromon bırakarak en kısa yolu bulma davran
 ## Proje Yapısı
 
 ```
-aco_ilac_rutasi/
+aco_ilac_rotasi/
 │
 ├── main.py                    # Streamlit ana uygulama dosyası
 ├── config.py                  # ACO parametreleri ve ayarlar
@@ -76,7 +75,7 @@ pip install -r requirements.txt
 
 ### 3. API Anahtarını Yapılandırın
 
-**Seçenek 1: .env dosyası (önerilen)**
+**Seçenek 1: .env dosyası**
 
 `.env.example` dosyasını `.env` olarak kopyalayın ve API anahtarınızı girin:
 
