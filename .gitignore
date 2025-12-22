@@ -1,0 +1,35 @@
+# API Keys ve Secrets
+.env
+.streamlit/secrets.toml
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+
+# Virtual Environment
+venv/
+env/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Output files
+*.html
+*.png
+*.xlsx
+*.csv
+figure/
+
+# OS
+.DS_Store
+Thumbs.db

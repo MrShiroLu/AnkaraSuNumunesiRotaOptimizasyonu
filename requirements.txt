@@ -1,0 +1,8 @@
+googlemaps==4.10.0
+folium==0.15.1
+streamlit==1.29.0
+streamlit-folium==0.15.1
+pandas==2.1.4
+numpy==1.26.2
+matplotlib==3.8.2
+python-dotenv==1.0.0
