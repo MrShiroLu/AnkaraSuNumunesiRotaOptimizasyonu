@@ -1,8 +1,3 @@
-**Adınız:** Burak  
-**Soyadınız:**  ARTUN
-**Okul Numaranız:**  2312729005
-**GitHub Repo Bağlantısı:** https://github.com/MrShiroLu/AnkaraSuNumunesiRotaOptimizasyonu
-
 # Karınca Kolonisi Algoritması ile Ankara Gölet Rota Optimizasyonu
 
 Çevre Bakanlığı birimlerinin Ankara'daki 10 farklı göletten su numunesi toplaması için **Ant Colony Optimization (ACO)** algoritması ile en kısa rotayı bulan Streamlit web uygulaması.
